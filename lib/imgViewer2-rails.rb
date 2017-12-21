@@ -1,4 +1,5 @@
 require 'imgViewer2-rails/version'
+require 'leaflet-rails'
 
 module Jquery
   module ImgViewer2

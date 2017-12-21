@@ -1,5 +1,5 @@
 module Jquery
   module ImgViewer2
-    VERSION = '0.9.1'.freeze
+    VERSION = '1.1.0'.freeze
   end
 end

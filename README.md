@@ -15,6 +15,19 @@ And then execute:
 
 ## How to use
 
+Add to your JavaScript manifest file (application.js):
+
+```js
+//= require leaflet
+//= require imgViewer2
+```
+
+Add to your application-wide CSS file (application.css):
+
+```css
+= require leaflet
+```
+
 Visit [official doc](https://github.com/waynegm/imgViewer2#documentation)
 
 [version-badge]: https://badge.fury.io/rb/imgViewer2-rails.svg
