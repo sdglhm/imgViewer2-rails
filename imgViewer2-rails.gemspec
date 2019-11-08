@@ -14,5 +14,5 @@ Gem::Specification.new do |gem|
   gem.name          = 'imgViewer2-rails'
   gem.require_paths = ['lib']
   gem.version       = Jquery::ImgViewer2::VERSION
-  gem.add_runtime_dependency 'leaflet-rails', '>= 1.2.0'
+  gem.add_runtime_dependency 'leaflet-rails', '1.5.1'
 end
